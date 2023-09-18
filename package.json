@@ -1,0 +1,27 @@
+{
+  "name": "typescript-basic-template",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "dependencies": {
+    "@merrymake/service": "latest"
+  },
+  "devDependencies": {
+    "@tsconfig/node-lts": "latest"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/merrymake/typescript-basic-template.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/merrymake/typescript-basic-template/issues"
+  },
+  "homepage": "https://github.com/merrymake/typescript-basic-template#readme"
+}
